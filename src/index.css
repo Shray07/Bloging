@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Post {
+  margin: auto;
+  padding-left:78vh;
+  padding-top: 5vh;
+}
+.headdiv{
+  padding-left: 5vh;
+}
